@@ -9,7 +9,7 @@ public class DivideBy_Zero_Second_problem extends RuntimeException
 	
 		static int res;
 
-		public static void main(String[] args)  {
+		public static void main(String[] args) throws Exception  {
 			Scanner sc=new Scanner(System.in);
 			
 			try {
@@ -19,7 +19,7 @@ public class DivideBy_Zero_Second_problem extends RuntimeException
 				int n1=sc.nextInt();
 				res=n/n1;
 				System.out.println("Result::="+res);
-			} catch (UnsupportedOperationException e) 
+			} catch (Exception e) 
 			{
 				// TODO Auto-generated catch block
 				
