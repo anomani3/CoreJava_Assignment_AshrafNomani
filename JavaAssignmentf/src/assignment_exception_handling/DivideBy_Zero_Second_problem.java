@@ -21,7 +21,6 @@ public class DivideBy_Zero_Second_problem extends RuntimeException
 				System.out.println("Result::="+res);
 			} catch (Exception e) 
 			{
-				// TODO Auto-generated catch block
 				
 			System.out.println("UnsupportedOperationException"+e);
 			}
