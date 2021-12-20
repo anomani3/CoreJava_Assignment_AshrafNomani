@@ -1,0 +1,13 @@
+div{
+    background-color: skyblue;
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-left: 20px;
+    margin-right: 100px;
+    height: 30px;
+}
+a{
+    color: red;
+    font-weight: bold;
+}

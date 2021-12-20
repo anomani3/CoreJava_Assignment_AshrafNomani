@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: skyblue;
+    height: 150px;
+    margin: 10px;
+}
+.h1{
+    background-color: rgba(9, 148, 241, 0.76);
+    height: 50px;
+    font-weight:50;
+}
+.p1{
+    background-color: rgb(121, 120, 120);
+    height: 30px;
+    font-weight:50;
+}
+.p2{
+        height: 30px;
+        font-weight:50;   
+}
+.p3{
+    background-color: rgb(14, 103, 145);
+    height: 30px; 
+    font-weight:50;  
+}

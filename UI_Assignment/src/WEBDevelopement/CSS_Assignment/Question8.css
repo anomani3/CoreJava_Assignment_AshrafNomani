@@ -1,0 +1,26 @@
+.container{
+    border: 2px solid black;
+    height: 365px;
+    background-color: transparent;
+}
+div{
+    border-top: 5px solid black;
+    border-right: 5px dashed black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    height: 40px;
+    padding-bottom: 20px;
+    background-color: skyblue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.h2{
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.h3{
+    border: 2px solid skyblue;
+    background-color: skyblue;
+    margin: 10px;
+}

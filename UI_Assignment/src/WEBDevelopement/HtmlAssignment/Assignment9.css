@@ -1,0 +1,28 @@
+table,
+th,
+td{
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topleft{
+    background-color:#bfbfbf;
+}
+
+.topright{
+    background-color:#808080;
+}
+#botleft{
+    background-color: #808080;
+    padding-top: 20px;
+}
+
+#botright{
+    background-color: #bfbfbf;
+    padding-top: 20px;
+}
